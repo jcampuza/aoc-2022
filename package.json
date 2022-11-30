@@ -1,0 +1,12 @@
+{
+  "name": "aoc-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "template": "cp -r ./template --"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
