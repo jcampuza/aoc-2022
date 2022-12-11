@@ -1,11 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const partOne = (input) => {
+const partOne = (input = '') => {
   return input;
 };
 
-const partTwo = (input) => {
+const partTwo = (input = '') => {
   return input;
 };
 
