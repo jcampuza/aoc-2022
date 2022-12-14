@@ -61,12 +61,8 @@ const simulate = (input, knots) => {
       }
 
       visited.add(`${t.x},${t.y}`);
-
-      console.log(rope);
     }
   }
-
-  console.log(visited);
 
   return visited.size;
 };

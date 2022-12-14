@@ -133,5 +133,5 @@ const partTwo = (input) => {
 };
 
 const input = fs.readFileSync(path.join(__dirname, 'input.txt'), 'utf-8');
-// console.log(partOne(input));
+console.log(partOne(input));
 console.log(partTwo(input));
